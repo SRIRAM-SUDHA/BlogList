@@ -1,0 +1,30 @@
+.titleContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.title {
+  font-size: medium;
+  margin: 0px;
+}
+
+.publishedDate {
+  margin: 0px;
+  color: #616e7c;
+  font-size: 14px;
+  font-weight: 500;
+}
+.description {
+  font-size: small;
+  margin: 0px;
+  padding-left: 10px;
+  color: #616e7c;
+  font-weight: 600;
+}
+
+.container {
+  margin: 20px;
+  width: 75%;
+}
